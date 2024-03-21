@@ -26,8 +26,11 @@ Jerk Devresi Kullanım Alanları:
 Jerk devresi, çeşitli alanlarda kullanılabilir. Bunlardan bazıları şunlardır: 
 
 Kriptoloji: Jerk devresi, rastgele sayılar üretmek için kullanılabilir.
+
 Yapay Yaşam: Jerk devresi, yapay yaşam simülasyonlarında gerçekçi ve karmaşık davranışlar oluşturmak için kullanılabilir. 
+
 Robotik: Jerk devresi, robotların karmaşık ortamlarda gezinmesine yardımcı olmak için kullanılabilir.
+
 Müzik: Jerk devresi, rastgele ve ilginç sesler oluşturmak için kullanılabilir. 
 
 Jerk Devresi Fizibilitesi: 
